@@ -67,14 +67,6 @@ Me chamo Paulo Henrique, tenho 20 anos e atualmente estudo engenharia de softwar
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
-<img 
-    align="left" 
-    alt="aws" 
-    title="aws"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
 
 
 
