@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Paulo Henrique, tenho 20 anos e atualmente estudo engenharia de software(ead), tenho conhecimentos em front-end, back-end e data science, busco minha primeira vaga na area de tecnologia.
+Me chamo Paulo Henrique, tenho 20 anos e atualmente estudo engenharia de software(ead), tenho conhecimentos bdata science e desenvolvimento de softwares em geral, busco minha primeira vaga na area de tecnologia.
 
 
 
